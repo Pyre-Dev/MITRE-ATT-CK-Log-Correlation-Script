@@ -1,0 +1,17 @@
+{
+  "4625": {
+    "tactic": "Credential Access",
+    "technique": "Brute Force",
+    "description": "An account failed to log on"
+  },
+  "4672": {
+    "tactic": "Privilege Escalation",
+    "technique": "Abuse Elevation Control Mechanism",
+    "description": "Special privileges assigned to new logon"
+  },
+  "4688": {
+    "tactic": "Execution",
+    "technique": "Command and Scripting Interpreter",
+    "description": "A new process has been created"
+  }
+}
